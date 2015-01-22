@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<authentication>
+    <domain>mydomain.com</domain>
+    <server name = "myserver">
+            <login>mylogin</login>
+            <password>mypassword</password>
+    </server>
+    <server name = "myotherserver">
+            <login>mylogin</login>
+            <password>mypassword</password>
+    </server>
+</authentication>
